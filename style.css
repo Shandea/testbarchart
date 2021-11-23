@@ -1,0 +1,31 @@
+/* body of page styling */
+body{
+    background-color: powderblue;
+}
+/* title styling */
+#title{
+    margin: 25px;
+    text-align: center;
+    color:black;
+}
+/* amount p-tag styling */
+#amount{
+    margin: 15% 0% 0% 10%;
+    font-size: 20px;
+    font-weight: 500;
+}
+/* year p-tag styling  */
+#year{
+    margin: 15% 0% 0% 50%;
+    font-size: 20px;
+    font-weight: 500;
+ 
+}
+/* svg styling */
+svg{
+    margin: -38% 0% 0% 15%;
+}
+/* bar styling */
+.bar:hover{
+    fill:darkgrey;
+}
